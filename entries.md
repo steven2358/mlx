@@ -2,6 +2,10 @@ ML Explorations
 ===
 A list of machine learning resources.
 
+2014-07-29
+---
+- [Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/) #kaggle #code
+
 2014-07-31
 ---
 - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) Stanford tutorial on deep learning. My solutions on Github: [Sparse Autoencoder](https://github.com/steven2358/SparseAutoencoder), [Sparse Autoencode Vectorized](https://github.com/steven2358/SparseAutoencoderVectorized), [Softmax Regression](https://github.com/steven2358/SoftmaxRegression), [Self-Taught Learning](https://github.com/steven2358/SelfTaughtLearning), [Linear Decoder](https://github.com/steven2358/LinearDecoder), [Stacked Autoencoder](https://github.com/steven2358/StackedAutoencoder) and [Convolutional Neural Network](https://github.com/steven2358/cnn_ufldl). #courses #deeplearning
