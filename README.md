@@ -26,6 +26,7 @@ A list of machine learning resources.
 ---
 - [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) An MIT Press book by Yoshua Bengio, Ian Goodfellow and Aaron Courville. #books #pdf #deeplearning
 - [Signal and Image Classification - Stephane Mallat Technion lecture](https://www.youtube.com/watch?v=wHhYvtnY2zI) Via [Nuit Blanche](http://nuit-blanche.blogspot.fr/2014/08/saturday-morning-video-signal-and-image.html) #video #wavelets #deeplearning
+- [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) Paper by G. E. Hinton, A. Krizhevsky & S. D. Wang, introducing the idea of "capsules". #papers #deeplearning #capsules
 
 2014-08-25
 ---
@@ -39,6 +40,15 @@ A list of machine learning resources.
 ---
 - [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) High-level overview of deep learning. #tutorials #deeplearning
 - [Stochastic Pooling for Regularization of Deep Convolutional Neural Networks](http://techtalks.tv/talks/stochastic-pooling-for-regularization-of-deep-convolutional-neural-networks/58106/) A talk by Matthew D. Zeiler. Stochastic pooling: treat activations as probabilities and pick one with the corresponding probability. At test time: weight activations with probabilities. Implemented using [GPUmat](https://sourceforge.net/projects/gpumat/) with [cuda-convnet](https://code.google.com/p/cuda-convnet/) #videos #deeplearning
+
+2014-09-04
+---
+- [Kernel Methods Match Deep Neural Networks On TIMIT](http://www.ifp.illinois.edu/~huang146/papers/Kernel_DNN_ICASSP2014.pdf) Via [Reddit](http://www.reddit.com/r/MachineLearning/comments/2fbw7i/kernel_methods_match_deep_neural_networks_on_timit/) #kernelmethods #deeplearning
+
+2014-09-05
+---
+- [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) Course by Sebastian Thrun and Peter Norvig on Udacity. #courses #online_courses
+- [Using deep learning to listen for whales](http://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales/) Daniel Nouri's notes on the Kaggle Whale Detection Challenge. #deeplearning #kaggle 
 
 2014-09-15
 ---
