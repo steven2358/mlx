@@ -27,6 +27,8 @@ A list of machine learning resources.
 - [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) An MIT Press book by Yoshua Bengio, Ian Goodfellow and Aaron Courville. #books #pdf #deeplearning
 - [Signal and Image Classification - Stephane Mallat Technion lecture](https://www.youtube.com/watch?v=wHhYvtnY2zI) Via [Nuit Blanche](http://nuit-blanche.blogspot.fr/2014/08/saturday-morning-video-signal-and-image.html) #video #wavelets #deeplearning
 - [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) Paper by G. E. Hinton, A. Krizhevsky & S. D. Wang, introducing the idea of "capsules". #papers #deeplearning #capsules
+- [The Data Scientist on a Quest to Turn Computers Into Doctors](http://www.wired.com/2014/08/enlitic/) Article on Jeremy Howard's company (Enlitic)[http://www.enlitic.com/] #deeplearning #vision #medicine #companies #articles
+- [Indolent or aggressive? A computerised pathologist that can outperform its human counterparts could transform the field of cancer diagnosis](http://www.economist.com/node/21540387) Article on Daphne Koller's Computational Pathologist. #articles #medicine #vision
 
 2014-08-25
 ---
