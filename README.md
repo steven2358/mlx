@@ -36,7 +36,7 @@ A list of machine learning resources.
 
 2014-08-29
 ---
-- [Who is the best at X?](http://rodrigob.github.io/are_we_there_yet/build/) Benchmark visual recognition tests and comparison of results by state-of-the-art algorithms.
+- [Who is the best at X?](http://rodrigob.github.io/are_we_there_yet/build/) Benchmark visual recognition tests and comparison of results by state-of-the-art algorithms. #benchmarks #vision
 
 2014-08-31
 ---
@@ -45,7 +45,7 @@ A list of machine learning resources.
 
 2014-09-04
 ---
-- [Kernel Methods Match Deep Neural Networks On TIMIT](http://www.ifp.illinois.edu/~huang146/papers/Kernel_DNN_ICASSP2014.pdf) Via [Reddit](http://www.reddit.com/r/MachineLearning/comments/2fbw7i/kernel_methods_match_deep_neural_networks_on_timit/) #kernelmethods #deeplearning
+- [Kernel Methods Match Deep Neural Networks On TIMIT](http://www.ifp.illinois.edu/~huang146/papers/Kernel_DNN_ICASSP2014.pdf) Via [Reddit](http://www.reddit.com/r/MachineLearning/comments/2fbw7i/kernel_methods_match_deep_neural_networks_on_timit/) #kernelmethods #deeplearning #papers
 
 2014-09-05
 ---
