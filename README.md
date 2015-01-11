@@ -56,6 +56,9 @@ A list of machine learning resources.
 - [Intro to Artificial Intelligence.](https://www.udacity.com/course/cs271) Course by Sebastian Thrun and Peter Norvig on Udacity. #courses #online_courses
 - [Using deep learning to listen for whales.](http://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales/) Daniel Nouri's notes on the Kaggle Whale Detection Challenge. #deeplearning #kaggle 
 
+2014-09-08
+- [Accelerate Machine Learning with the cuDNN Deep Neural Network Library](http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/) #deeplearning #toolboxes
+
 2014-09-15
 ---
 - [Deep Learning: Past, Present and Future.](https://drive.google.com/file/d/0B16RwCMQqrtdb05qdDFnSXprM0E/view?sle=true) Slides by Kyunghyun Cho. #tutorial
