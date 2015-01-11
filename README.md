@@ -38,6 +38,10 @@ A list of machine learning resources.
 ---
 - [Who is the best at X?](http://rodrigob.github.io/are_we_there_yet/build/) Benchmark visual recognition tests and comparison of results by state-of-the-art algorithms. #benchmarks #vision
 
+2014-08-30
+---
+- [The History of AI.](http://arnetminer.org/event/aihistory) #AI #charts
+
 2014-08-31
 ---
 - [A Deep Learning Tutorial: From Perceptrons to Deep Networks.](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) High-level overview of deep learning. #tutorials #deeplearning
