@@ -63,6 +63,10 @@ A list of machine learning resources.
 ---
 - [Deep Learning: Past, Present and Future.](https://drive.google.com/file/d/0B16RwCMQqrtdb05qdDFnSXprM0E/view?sle=true) Slides by Kyunghyun Cho. #tutorial
 
+2014-09-18
+---
+- [Long short term memory.](http://en.wikipedia.org/wiki/Long_short_term_memory) Wikipedia entry. #ltsm #rnn
+
 2014-12-03
 ---
 - [So You Wanna Try Deep Learning?](http://snippyhollow.github.io/blog/2014/08/09/so-you-wanna-try-deep-learning/) Crash-course into deep learning including a one-file python implementation of a deep neural network. #code
