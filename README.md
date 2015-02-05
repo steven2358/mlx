@@ -25,14 +25,18 @@ A list of machine learning resources.
 2014-08-24
 ---
 - [Deep Learning.](http://www.iro.umontreal.ca/~bengioy/dlbook/) An MIT Press book by Yoshua Bengio, Ian Goodfellow and Aaron Courville. #books #pdf #deeplearning
-- [Signal and Image Classification - Stephane Mallat Technion lecture.](https://www.youtube.com/watch?v=wHhYvtnY2zI) Via [Nuit Blanche](http://nuit-blanche.blogspot.fr/2014/08/saturday-morning-video-signal-and-image.html) #video #wavelets #deeplearning
+- [Signal and Image Classification - Stephane Mallat Technion lecture.](https://www.youtube.com/watch?v=wHhYvtnY2zI) Via [Nuit Blanche](http://nuit-blanche.blogspot.fr/2014/08/saturday-morning-video-signal-and-image.html) #videos #wavelets #deeplearning
 - [Transforming Auto-encoders.](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) Paper by G. E. Hinton, A. Krizhevsky & S. D. Wang, introducing the idea of "capsules". #papers #deeplearning #capsules
 - [The Data Scientist on a Quest to Turn Computers Into Doctors.](http://www.wired.com/2014/08/enlitic/) Article on Jeremy Howard's company [Enlitic](http://www.enlitic.com/) #deeplearning #vision #medicine #companies #articles
 - [Indolent or aggressive? A computerised pathologist that can outperform its human counterparts could transform the field of cancer diagnosis.](http://www.economist.com/node/21540387) Article on Daphne Koller's Computational Pathologist. #articles #medicine #vision
 
 2014-08-25
 ---
-- [Recommending music on Spotify with deep learning - Sander Dieleman.](http://benanne.github.io/2014/08/05/spotify-cnns.html) #deeplearning
+- [Recommending music on Spotify with deep learning.](http://benanne.github.io/2014/08/05/spotify-cnns.html) A blog post by Sander Dieleman #deeplearning
+
+2014-08-26
+---
+- [Deep-er Kernels.](http://videolectures.net/roks2013_shawe_taylor_kernels/) A talk by John Shawe-Taylor #videos #kernelmethods #deeplearning
 
 2014-08-29
 ---
@@ -67,13 +71,18 @@ A list of machine learning resources.
 ---
 - [Long short term memory.](http://en.wikipedia.org/wiki/Long_short_term_memory) Wikipedia entry. #ltsm #rnn
 
+2014-09-29
+---
+- [Tom M. Mitchell - The Discipline of Machine Learning.](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) #papers
+- [An interview with Judea Pearl](http://www.cambridge.org/gb/knowledge/features/featureitem/item6977116/?site_locale=en_GB) #interviews #ai
+
 2014-12-03
 ---
 - [So You Wanna Try Deep Learning?](http://snippyhollow.github.io/blog/2014/08/09/so-you-wanna-try-deep-learning/) Crash-course into deep learning including a one-file python implementation of a deep neural network. #code
 
 2014-12-17
 ---
-- [Learning Deep Architectures for AI.](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf) A paper on the motivation for deep architectures, by Yoshua Bengio. #papers
+- [Learning Deep Architectures for AI.](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf) A paper on the motivation for deep architectures, by Yoshua Bengio. #papers #ai
 
 2014-12-21
 ---
