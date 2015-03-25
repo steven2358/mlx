@@ -71,6 +71,10 @@ A list of machine learning resources.
 ---
 - [Long short term memory.](http://en.wikipedia.org/wiki/Long_short_term_memory) Wikipedia entry. #ltsm #rnn
 
+2014-09-28
+---
+- [A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models.](http://crow.ee.washington.edu/people/bulyko/papers/em.pdf) #papers
+
 2014-09-29
 ---
 - [Tom M. Mitchell - The Discipline of Machine Learning.](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) #papers
