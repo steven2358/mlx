@@ -16,7 +16,7 @@ A list of machine learning resources.
 
 2014-08-10
 ---
-- [Neural Networks and Deep Learning.](http://neuralnetworksanddeeplearning.com/) Online book by Michael Nielsen. #books #online_books #deeplearning
+- [Neural Networks and Deep Learning.](http://neuralnetworksanddeeplearning.com/) Online book by Michael Nielsen. #books #deeplearning
 
 2014-08-14
 ---
@@ -95,3 +95,12 @@ A list of machine learning resources.
 2015-02-13
 ---
 - [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano
+
+2015-05-21
+---
+- [The Unreasonable Effectiveness of Recurrent Neural Networks.](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Blog post by Andrej Karpathy. #rnn
+
+2015-05-27
+---
+- [Model-Based Machine Learning (Early Access): an online book.](http://www.mbmlbook.com/) #books
+- [Yann LeCun, Yoshua Bengio & Geoffrey Hinton - Deep Learning.](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) Article in nature (paywalled). #papers
