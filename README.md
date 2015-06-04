@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-06-04
+---
+- [Competing in a data science contest without reading the data.](http://blog.mrtz.org/2015/03/09/competition.html) Blog post that introduces the wacky boosting algorithm. #kaggle #boosting
+
 2015-05-27
 ---
 - [Model-Based Machine Learning (Early Access): an online book.](http://www.mbmlbook.com/) #books
