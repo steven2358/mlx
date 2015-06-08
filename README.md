@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-06-08
+---
+[Neural Turing Machines.](http://arxiv.org/abs/1410.5401) A paper by Alex Graves, Greg Wayne and Ivo Danihelka. #papers
+
 2015-06-04
 ---
 - [Competing in a data science contest without reading the data.](http://blog.mrtz.org/2015/03/09/competition.html) Blog post that introduces the wacky boosting algorithm. #kaggle #boosting
