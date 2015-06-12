@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-06-11
+---
+[The Holy Grail of Deep Learning: Modelling Invariances.](http://www.inference.vc/the-holy-gr/) A blog post by Ferenc Huszár. #deeplearning
+
 2015-06-08
 ---
 [Neural Turing Machines.](http://arxiv.org/abs/1410.5401) A paper by Alex Graves, Greg Wayne and Ivo Danihelka. #papers
