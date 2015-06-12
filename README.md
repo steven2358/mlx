@@ -4,11 +4,12 @@ A list of machine learning resources.
 
 2015-06-11
 ---
-[The Holy Grail of Deep Learning: Modelling Invariances.](http://www.inference.vc/the-holy-gr/) A blog post by Ferenc Huszár. #deeplearning
+- [The Holy Grail of Deep Learning: Modelling Invariances.](http://www.inference.vc/the-holy-gr/) A blog post by Ferenc Huszár. #deeplearning
 
 2015-06-08
 ---
-[Neural Turing Machines.](http://arxiv.org/abs/1410.5401) A paper by Alex Graves, Greg Wayne and Ivo Danihelka. #papers
+- [Neural Turing Machines.](http://arxiv.org/abs/1410.5401) A paper by Alex Graves, Greg Wayne and Ivo Danihelka. #papers
+- [How to Evaluate Machine Learning Models: Hyperparameter Tuning.](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning) #hyperparameters
 
 2015-06-04
 ---
