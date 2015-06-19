@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-06-17
+---
+- [Inceptionism: Going Deeper into Neural Networks.](http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html) Blog post creating feature-enhanced images by turning recurrent neural networks upside down. #rnn
+
 2015-06-11
 ---
 - [The Holy Grail of Deep Learning: Modelling Invariances.](http://www.inference.vc/the-holy-gr/) A blog post by Ferenc Huszár. #deeplearning
