@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-06-25
+---
+- [Why Deep Learning Is a Hindrance to Progress Toward True AI.](http://rebelscience.blogspot.fr/2015/06/why-deep-learning-is-hindrance-to.html) Blog post on the role of time in unsupervised learning. #unsupervisedlearning
+
 2015-06-17
 ---
 - [Inceptionism: Going Deeper into Neural Networks.](http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html) Blog post creating feature-enhanced images by turning recurrent neural networks upside down. #rnn
