@@ -114,6 +114,10 @@ A list of machine learning resources.
 ---
 - [Neural Networks and Deep Learning.](http://neuralnetworksanddeeplearning.com/) Online book by Michael Nielsen. #books #deeplearning
 
+2014-08-04
+---
+- [Deep Learning and Convolutional Kernel Networks.](http://nuit-blanche.blogspot.com/2014/08/deep-learning-and-convolutional-kernel.html) #deeplearning #kernelmethods
+
 2014-07-31
 ---
 - [UFLDL Tutorial.](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) Stanford tutorial on deep learning. My solutions on Github: [Sparse Autoencoder.](https://github.com/steven2358/SparseAutoencoder), [Sparse Autoencode Vectorized](https://github.com/steven2358/SparseAutoencoderVectorized), [Softmax Regression](https://github.com/steven2358/SoftmaxRegression), [Self-Taught Learning](https://github.com/steven2358/SelfTaughtLearning), [Linear Decoder](https://github.com/steven2358/LinearDecoder), [Stacked Autoencoder](https://github.com/steven2358/StackedAutoencoder) and [Convolutional Neural Network](https://github.com/steven2358/cnn_ufldl). #courses #deeplearning
