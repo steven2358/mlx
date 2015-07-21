@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-07-20
+---
+- [Caffe Model Zoo.](http://caffe.berkeleyvision.org/model_zoo.html) Caffe models for different tasks with all kinds of architectures and data. More on the [GitHub Wiki](https://github.com/BVLC/caffe/wiki/Model-Zoo) #caffe #models #pretrained
+
 2015-06-25
 ---
 - [Why Deep Learning Is a Hindrance to Progress Toward True AI.](http://rebelscience.blogspot.fr/2015/06/why-deep-learning-is-hindrance-to.html) Blog post on the role of time in unsupervised learning. #unsupervisedlearning
@@ -34,7 +38,7 @@ A list of machine learning resources.
 
 2015-02-13
 ---
-- [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano
+- [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano #pretrained
 
 2014-12-21
 ---
