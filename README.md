@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-08-03
+---
+- [GitXiv: Collaborative Open Computer Science.](http://gitxiv.com/) A space to share links to open computer science projects. Each project is presented as arXiv + Github + Links + Discussion. #github #arxiv
+
 2015-07-20
 ---
 - [Caffe Model Zoo.](http://caffe.berkeleyvision.org/model_zoo.html) Caffe models for different tasks with all kinds of architectures and data. More on the [GitHub Wiki](https://github.com/BVLC/caffe/wiki/Model-Zoo) #caffe #models #pretrained
