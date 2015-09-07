@@ -67,7 +67,7 @@ A list of machine learning resources.
 
 2014-09-18
 ---
-- [Long short term memory.](http://en.wikipedia.org/wiki/Long_short_term_memory) Wikipedia entry. #ltsm #rnn
+- [Long short term memory.](http://en.wikipedia.org/wiki/Long_short_term_memory) Wikipedia entry. #lstm #rnn
 
 2014-09-15
 ---
