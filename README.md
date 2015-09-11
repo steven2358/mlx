@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-09-10
+---
+- [Spatial Transformer Networks.](http://arxiv.org/abs/1506.02025) A paper by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. #papers
+
 2015-08-03
 ---
 - [GitXiv: Collaborative Open Computer Science.](http://gitxiv.com/) A space to share links to open computer science projects. Each project is presented as arXiv + Github + Links + Discussion. #github #arxiv
