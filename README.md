@@ -4,7 +4,7 @@ A list of machine learning resources.
 
 2015-09-10
 ---
-- [Spatial Transformer Networks.](http://arxiv.org/abs/1506.02025) A paper by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. #papers
+- [Spatial Transformer Networks.](http://arxiv.org/abs/1506.02025) A paper by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. And here's a demo on traffic sign recognition: [The power of Spatial Transformer Networks](http://torch.ch/blog/2015/09/07/spatial_transformers.html) #papers #code
 
 2015-08-03
 ---
