@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-09-17
+---
+- [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs.](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) #rnn
+
 2015-09-10
 ---
 - [Spatial Transformer Networks.](http://arxiv.org/abs/1506.02025) A paper by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. And here's a demo on traffic sign recognition: [The power of Spatial Transformer Networks](http://torch.ch/blog/2015/09/07/spatial_transformers.html) #papers #code
@@ -43,6 +47,11 @@ A list of machine learning resources.
 2015-05-21
 ---
 - [The Unreasonable Effectiveness of Recurrent Neural Networks.](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Blog post by Andrej Karpathy. #rnn
+
+2015-03-29
+---
+- [CS224d: Deep Learning for Natural Language Processing.](http://cs224d.stanford.edu/) #courses
+- [Data Mining Courses.](https://datayo.wordpress.com/2015/03/29/courses/) Overview of online machine learning and data mining courses. #courses
 
 2015-02-13
 ---
