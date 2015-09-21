@@ -57,6 +57,10 @@ A list of machine learning resources.
 ---
 - [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano #pretrained
 
+2015-01-01
+---
+- [CS231n: Convolutional Neural Networks for Visual Recognition.](http://vision.stanford.edu/teaching/cs231n/) #courses
+
 2014-12-21
 ---
 - [Do Deep Nets Really Need to be Deep?](http://arxiv.org/abs/1312.6184) "Once a deep network is trained, a shallow network can learn the same function from the outputs of the deep network. The shallow network can't learn the same function directly from the data. This indicates that deep learning could be an optimization/learning trick". Via [Nuit Blanche](http://nuit-blanche.blogspot.com.es/2014/12/sunday-morning-insight-regularization.html) #papers #deeplearning
