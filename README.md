@@ -2,6 +2,9 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-10-05
+- [Grasp-and-Lift EEG Detection Winners' Interview: 3rd place, Team HEDJ.](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/) #kaggle #timeseries #eeg
+
 2015-09-17
 ---
 - [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs.](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) #rnn
@@ -53,9 +56,13 @@ A list of machine learning resources.
 - [CS224d: Deep Learning for Natural Language Processing.](http://cs224d.stanford.edu/) #courses
 - [Data Mining Courses.](https://datayo.wordpress.com/2015/03/29/courses/) Overview of online machine learning and data mining courses. #courses
 
+2015-02-14
+---
+- [Tutorial to configure an AWS instance to run Theano.](https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial) #gpu #theano #aws
+
 2015-02-13
 ---
-- [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano #pretrained
+- [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano #pretrained #regression
 
 2015-01-01
 ---
