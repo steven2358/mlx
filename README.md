@@ -2,7 +2,13 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-10-12
+---
+- [Grasp-and-Lift EEG Detection Winners' Interview: 1st place, Cat & Dog.](http://blog.kaggle.com/2015/10/12/grasp-and-lift-eeg-winners-interview-1st-place-cat-dog/) #kaggle #timeseries #eeg
+- (Code and documentation for the winning sollution at the Grasp-and-Lift EEG Detection challenge.)[https://github.com/alexandrebarachant/Grasp-and-lift-EEG-challenge] #code #python #github #kaggle
+
 2015-10-05
+---
 - [Grasp-and-Lift EEG Detection Winners' Interview: 3rd place, Team HEDJ.](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/) #kaggle #timeseries #eeg
 
 2015-09-17
@@ -146,6 +152,10 @@ A list of machine learning resources.
 ---
 - [Neural Networks and Deep Learning.](http://neuralnetworksanddeeplearning.com/) Online book by Michael Nielsen. #books #deeplearning
 
+2014-08-07
+---
+- (Winning solution for the DecMeg2014 challenge.)[https://github.com/alexandrebarachant/DecMeg2014] #code #matlab #github #kaggle
+
 2014-08-04
 ---
 - [Deep Learning and Convolutional Kernel Networks.](http://nuit-blanche.blogspot.com/2014/08/deep-learning-and-convolutional-kernel.html) #deeplearning #kernelmethods
@@ -161,3 +171,7 @@ A list of machine learning resources.
 2014-02-14
 ---
 - [ConvNetJS: Deep Learning in your browser.](http://cs.stanford.edu/people/karpathy/convnetjs/) Javascript machine learning #code #deeplearning
+
+2013-10-25
+---
+- ["Learning Hierarchies Of Invariant Features", slides by Yann LeCun.](http://www.slideshare.net/yandex/yann-le-cun) #tutorial #deeplearning
