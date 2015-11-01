@@ -144,6 +144,10 @@ A list of machine learning resources.
 - [The Data Scientist on a Quest to Turn Computers Into Doctors.](http://www.wired.com/2014/08/enlitic/) Article on Jeremy Howard's company [Enlitic](http://www.enlitic.com/) #deeplearning #vision #medicine #companies #articles
 - [Indolent or aggressive? A computerised pathologist that can outperform its human counterparts could transform the field of cancer diagnosis.](http://www.economist.com/node/21540387) Article on Daphne Koller's Computational Pathologist. #articles #medicine #vision
 
+2014-08-19
+---
+- [Timeseries Classification: KNN & DTW.](http://nbviewer.ipython.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb) An iPython notebook by Mark Regan. #python #dtw #knn #timeseries
+
 2014-08-14
 ---
 - [Neural Networks course by Hugo Larochelle.](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) #courses #videos #deeplearning
