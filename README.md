@@ -57,6 +57,10 @@ A list of machine learning resources.
 ---
 - [The Unreasonable Effectiveness of Recurrent Neural Networks.](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Blog post by Andrej Karpathy. #rnn
 
+2015-04-06
+---
+- [Early Stopping is Nonparametric Variational Inference.](http://arxiv.org/abs/1504.01344) A Bayesian interpretation of early-stopping stochastic gradient descent. #papers
+
 2015-03-29
 ---
 - [CS224d: Deep Learning for Natural Language Processing.](http://cs224d.stanford.edu/) #courses
