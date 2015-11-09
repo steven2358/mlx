@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-11-09
+---
+- [TensorFlow, an open source software library for machine intelligence by Google.](http://tensorflow.org/) #opensource #google #deeplearning
+
 2015-10-12
 ---
 - [Grasp-and-Lift EEG Detection Winners' Interview: 1st place, Cat & Dog.](http://blog.kaggle.com/2015/10/12/grasp-and-lift-eeg-winners-interview-1st-place-cat-dog/) #kaggle #timeseries #eeg
