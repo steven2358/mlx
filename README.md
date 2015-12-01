@@ -180,6 +180,10 @@ A list of machine learning resources.
 ---
 - [Kaggle Competition Past Solutions.](http://www.chioka.in/kaggle-competition-solutions/) #kaggle #code
 
+2014-06-21
+---
+- [Towards End-to-End Speech Recognition with Recurrent Neural Networks.](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf) A paper by Alex Graves and Navdeep Jaitly. #rnn #lstm
+
 2014-02-14
 ---
 - [ConvNetJS: Deep Learning in your browser.](http://cs.stanford.edu/people/karpathy/convnetjs/) Javascript machine learning #code #deeplearning
@@ -187,3 +191,7 @@ A list of machine learning resources.
 2013-10-25
 ---
 - ["Learning Hierarchies Of Invariant Features", slides by Yann LeCun.](http://www.slideshare.net/yandex/yann-le-cun) #tutorial #deeplearning
+
+2012-12-03
+---
+- [ImageNet Classification with Deep Convolutional Neural Networks.](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) A paper by Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton. #deeplearning #cnn
