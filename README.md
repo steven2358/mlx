@@ -195,3 +195,7 @@ A list of machine learning resources.
 2012-12-03
 ---
 - [ImageNet Classification with Deep Convolutional Neural Networks.](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) A paper by Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton. #deeplearning #cnn
+
+2011-03-11
+---
+- [How to Grow a Mind: Statistics, Structure, and Abstraction.](http://web.mit.edu/cocosci/Papers/tkgg-science11-reprint.pdf) A paper by Joshua B. Tenenbaum, Charles Kemp, Thomas L. Griffiths, and Noah D. Goodman. #bayes #brain #science
