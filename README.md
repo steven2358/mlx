@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2015-12-03
+---
+- [A mathematical motivation for complex-valued convolutional networks.](http://arxiv.org/abs/1503.03438) A paper by Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, and Mark Tygert. #cnn #wavelets
+
 2015-11-09
 ---
 - [TensorFlow, an open source software library for machine intelligence by Google.](http://tensorflow.org/) #opensource #google #deeplearning
