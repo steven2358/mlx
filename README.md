@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-01-11
+---
+[Anthony Goldbloom gives you the secret to winning Kaggle competitions.](https://www.import.io/post/how-to-win-a-kaggle-competition/) A blog post reporting that XGBoost and Neural Networks are winning the majority of Kaggle competitions. #kaggle #xgboost #nn
+
 2015-12-03
 ---
 - [A mathematical motivation for complex-valued convolutional networks.](http://arxiv.org/abs/1503.03438) A paper by Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, and Mark Tygert. #cnn #wavelets
