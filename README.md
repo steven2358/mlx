@@ -2,13 +2,17 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-01-22
+---
+- [An Interactive Node-Link Visualization of Convolutional Neural Networks.](http://scs.ryerson.ca/~aharley/vis/) A 3d interface by Adam W. Harley. #web #cnn
+
 2016-01-11
 ---
-[Anthony Goldbloom gives you the secret to winning Kaggle competitions.](https://www.import.io/post/how-to-win-a-kaggle-competition/) A blog post reporting that XGBoost and Neural Networks are winning the majority of Kaggle competitions. #kaggle #xgboost #nn
+- [Anthony Goldbloom gives you the secret to winning Kaggle competitions.](https://www.import.io/post/how-to-win-a-kaggle-competition/) A blog post reporting that XGBoost and Neural Networks are winning the majority of Kaggle competitions. #kaggle #xgboost #nn
 
 2015-12-11
 ---
-[Human-level concept learning through probabilistic program induction.](http://m.sciencemag.org/content/350/6266/1332.full.pdf) A paper by Brenden M. Lake, Ruslan Salakhutdinov, and Joshua B. Tenenbaum. #papers #one-shot #bayes
+- [Human-level concept learning through probabilistic program induction.](http://m.sciencemag.org/content/350/6266/1332.full.pdf) A paper by Brenden M. Lake, Ruslan Salakhutdinov, and Joshua B. Tenenbaum. #papers #one-shot #bayes
 
 2015-12-03
 ---
