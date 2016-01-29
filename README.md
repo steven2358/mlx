@@ -4,7 +4,7 @@ A list of machine learning resources.
 
 2016-01-22
 ---
-- [An Interactive Node-Link Visualization of Convolutional Neural Networks.](http://scs.ryerson.ca/~aharley/vis/) A 3d interface by Adam W. Harley. #web #cnn
+- [An Interactive Node-Link Visualization of Convolutional Neural Networks.](http://scs.ryerson.ca/~aharley/vis/) A 3D interface by Adam W. Harley. #web #cnn
 
 2016-01-11
 ---
@@ -105,6 +105,10 @@ A list of machine learning resources.
 2014-12-17
 ---
 - [Learning Deep Architectures for AI.](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf) A paper on the motivation for deep architectures, by Yoshua Bengio. #papers #ai
+
+2014-12-09
+---
+- [Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.csail.mit.edu/papers/volume15/delgado14a/delgado14a.pdf) A paper by Manuel Fernández-Delgado, Eva Cernadas and Senén Barro. #paper #classification
 
 2014-12-03
 ---
