@@ -105,6 +105,8 @@ A list of machine learning resources.
 2014-12-17
 ---
 - [Learning Deep Architectures for AI.](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf) A paper on the motivation for deep architectures, by Yoshua Bengio. #papers #ai
+- ["Using convolutional neural nets to detect facial keypoints tutorial."](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) A tutorial by Daniel Nouri on how to perform regression using Theano + Lasagne + nolearn to find keypoints in pictures of face. #tutorial #theano #deeplearning
+- ["Deep Learning Tutorial".](https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial) A tutorial on creating an AWS instance to run Theano. #kaggle #deeplearning #aws
 
 2014-12-09
 ---
@@ -210,7 +212,7 @@ A list of machine learning resources.
 
 2013-10-25
 ---
-- ["Learning Hierarchies Of Invariant Features", slides by Yann LeCun.](http://www.slideshare.net/yandex/yann-le-cun) #tutorial #deeplearning
+- ["Learning Hierarchies Of Invariant Features".](http://www.slideshare.net/yandex/yann-le-cun) Slides by Yann LeCun. #tutorial #deeplearning
 
 2012-12-03
 ---
