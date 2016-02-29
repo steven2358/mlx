@@ -39,6 +39,10 @@ A list of machine learning resources.
 ---
 - [Spatial Transformer Networks.](http://arxiv.org/abs/1506.02025) A paper by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu. And here's a demo on traffic sign recognition: [The power of Spatial Transformer Networks](http://torch.ch/blog/2015/09/07/spatial_transformers.html) #papers #code
 
+2015-08-26
+---
+- [A Neural Algorithm of Artistic Style.](http://arxiv.org/abs/1508.06576) A paper by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. #papers #art
+
 2015-08-03
 ---
 - [GitXiv: Collaborative Open Computer Science.](http://gitxiv.com/) A space to share links to open computer science projects. Each project is presented as arXiv + Github + Links + Discussion. #github #arxiv
@@ -93,6 +97,10 @@ A list of machine learning resources.
 2015-02-13
 ---
 - [Using convolutional neural nets to detect facial keypoints tutorial.](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) Tutorial by Daniel Nouri on using Theano and Lasagne for detecting facial keypoints through deep convolutional regression. #deeplearning #cnn #theano #pretrained #regression
+
+2015-02-11
+---
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.](http://arxiv.org/abs/1502.03167) A paper by Sergey Ioffe and Christian Szegedy. #papers #deeplearning
 
 2015-01-01
 ---
