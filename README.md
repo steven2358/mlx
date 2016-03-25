@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-03-09
+---
+- [XGBoost: A Scalable Tree Boosting System.](http://arxiv.org/abs/1603.02754) A paper by Tianqi Chen and Carlos Guestrin. #papers #boosting
+
 2016-01-22
 ---
 - [An Interactive Node-Link Visualization of Convolutional Neural Networks.](http://scs.ryerson.ca/~aharley/vis/) A 3D interface by Adam W. Harley. #web #cnn
