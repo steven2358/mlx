@@ -200,7 +200,7 @@ A list of machine learning resources.
 
 2014-08-07
 ---
-- (Winning solution for the DecMeg2014 challenge.)[https://github.com/alexandrebarachant/DecMeg2014] #code #matlab #github #kaggle
+- [Winning solution for the DecMeg2014 challenge.](https://github.com/alexandrebarachant/DecMeg2014) #code #matlab #github #kaggle
 
 2014-08-04
 ---
