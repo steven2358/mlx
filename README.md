@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-04-27
+---
+- [OpenAI Gym.](https://gym.openai.com) A toolkit for developing and comparing reinforcement learning algorithms. #reinforcementlearning #openai #python
+
 2016-04-12
 ---
 - [A Neural Network Playground.](http://playground.tensorflow.org/) Play with neural networks. Brought by the TensorFlow team. #visualizations #interactive #tensorflow
@@ -29,6 +33,10 @@ A list of machine learning resources.
 2015-11-09
 ---
 - [TensorFlow, an open source software library for machine intelligence by Google.](http://tensorflow.org/) #opensource #google #deeplearning
+
+2015-11-05
+---
+- [Deepart.io.](https://deepart.io/) Generate images styled like your favorite artist #art
 
 2015-10-12
 ---
