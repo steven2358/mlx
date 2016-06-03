@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-05-22
+---
+[Magenta: Music and Art Generation with Machine Intelligence.](http://magenta.tensorflow.org/) A Google project to make art with TensorFlow. #art #tensorflow
+
 2016-04-27
 ---
 - [OpenAI Gym.](https://gym.openai.com) A toolkit for developing and comparing reinforcement learning algorithms. #reinforcementlearning #openai #python
