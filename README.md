@@ -2,9 +2,17 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-06-21
+---
+[ML + AI advances 2016.](https://vzn1.wordpress.com/2016/06/21/ml-ai-advances-2016/) An exhaustive list of ML and AI headlines of the past year. #overview #2016
+
 2016-05-22
 ---
 [Magenta: Music and Art Generation with Machine Intelligence.](http://magenta.tensorflow.org/) A Google project to make art with TensorFlow. #art #tensorflow
+
+2016-04-28
+---
+[Movidius Fathom, a Neural Network Compute Framework embedded on a USB stick.](http://www.movidius.com/solutions/machine-vision-algorithms/machine-learning) #usb #hardware #deeplearning
 
 2016-04-27
 ---
