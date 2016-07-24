@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-07-21
+---
+- [Approaching (Almost) Any Machine Learning Problem.](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/) A post on practical ML pipelines by Abhishek Thakur. #pipelines #python
+
 2016-07-05
 ---
 - [Gradient Boosting Interactive Playground.](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html) An interactive demonstration-explanation of gradient boosting algorithm applied to classification problem. #visualizations #interactive #GB
