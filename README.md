@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-07-05
+---
+[Gradient Boosting Interactive Playground.](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html) An interactive demonstration-explanation of gradient boosting algorithm applied to classification problem. #visualizations #interactive #GB
+
 2016-06-21
 ---
 [ML + AI advances 2016.](https://vzn1.wordpress.com/2016/06/21/ml-ai-advances-2016/) An exhaustive list of ML and AI headlines of the past year. #overview #2016
@@ -12,6 +16,7 @@ A list of machine learning resources.
 
 2016-04-28
 ---
+[Interactive demonstrations for ML courses.](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html) A list of interactive demos: ROC curve, convnet.js (RandomForest, SVM, Neural network), Decision tree, Gradient Boosting (and decision tree for regression), Mini-course on reinforcement learning, TensorFlow NN, Image Reconstruction, t-SNE, Variational AutoEncoder, Generative adversarial networks, etc. #visualizations #interactive #list
 [Movidius Fathom, a Neural Network Compute Framework embedded on a USB stick.](http://www.movidius.com/solutions/machine-vision-algorithms/machine-learning) #usb #hardware #deeplearning
 
 2016-04-27
