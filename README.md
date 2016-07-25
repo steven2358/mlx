@@ -27,6 +27,10 @@ A list of machine learning resources.
 ---
 - [OpenAI Gym.](https://gym.openai.com) A toolkit for developing and comparing reinforcement learning algorithms. #reinforcementlearning #openai #python
 
+2016-04-13
+---
+- [CreativeAi.](http://www.creativeai.net/) A space to share research and experiments that deal with Creativity and A.I. #art #ai
+
 2016-04-12
 ---
 - [A Neural Network Playground.](http://playground.tensorflow.org/) Play with neural networks. Brought by the TensorFlow team. #visualizations #interactive #tensorflow
