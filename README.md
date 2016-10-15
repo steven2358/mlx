@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-10-03
+---
+- [How to Use t-SNE Effectively.](http://distill.pub/2016/misread-tsne/) An interactive exploration of the t-SNE algorithm. #visualizations #interactive #tSNE
+
 2016-07-21
 ---
 - [Approaching (Almost) Any Machine Learning Problem.](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/) A post on practical ML pipelines by Abhishek Thakur. #pipelines #python
