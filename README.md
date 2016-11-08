@@ -6,6 +6,11 @@ A list of machine learning resources.
 ---
 - [How to Use t-SNE Effectively.](http://distill.pub/2016/misread-tsne/) An interactive exploration of the t-SNE algorithm. #visualizations #interactive #tSNE
 
+2016-09-30
+---
+- [Open Sourcing a Deep Learning Solution for Detecting NSFW Images.](https://yahooeng.tumblr.com/post/151148689421/open-sourcing-a-deep-learning-solution-for) A Caffe DNN (ResNet 50) for detecting NSFW images, by Yahoo. #cnn 
+- [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks.](http://www.evolvingai.org/synthesizing) A paper by A. Nguyen, A. Dosovitskiy, J. Yosinski, T. Brox, and J. Clune. #papers #deeplearning #synthesis
+
 2016-07-21
 ---
 - [Approaching (Almost) Any Machine Learning Problem.](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/) A post on practical ML pipelines by Abhishek Thakur. #pipelines #python
