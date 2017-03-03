@@ -31,6 +31,10 @@ A list of machine learning resources.
 ---
 - [Gradient Boosting Interactive Playground.](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html) An interactive demonstration-explanation of gradient boosting algorithm applied to classification problem. #visualizations #interactive #GB
 
+2016-07-03
+---
+- [Awesome Deep Learning Papers.](https://github.com/terryum/awesome-deep-learning-papers) A curated list of the most cited deep learning papers since 2012. #dl #papers
+
 2016-06-21
 ---
 - [ML + AI advances 2016.](https://vzn1.wordpress.com/2016/06/21/ml-ai-advances-2016/) An exhaustive list of ML and AI headlines of the past year. #overview #2016
