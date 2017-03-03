@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2016-10-13
+---
+- [Uncertainty in Deep Learning.](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) A blog post by Yarin Gal about his PhD Thesis on Bayesian Deep Learning through dropout. #dropout #bayesian #dl
+
 2016-10-03
 ---
 - [How to Use t-SNE Effectively.](http://distill.pub/2016/misread-tsne/) An interactive exploration of the t-SNE algorithm. #visualizations #interactive #tSNE
