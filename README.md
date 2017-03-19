@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-03-15
+---
+- [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
+
 2016-10-13
 ---
 - [Uncertainty in Deep Learning.](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) A blog post by Yarin Gal about his PhD Thesis on Bayesian Deep Learning through dropout. #dropout #bayesian #dl
