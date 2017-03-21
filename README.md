@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-03-20
+---
+-[Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals #
+
 2017-03-15
 ---
 - [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
