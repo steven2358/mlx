@@ -4,11 +4,18 @@ A list of machine learning resources.
 
 2017-03-20
 ---
--[Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals #
+- [Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals #
 
 2017-03-15
 ---
 - [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
+
+2017-03-07
+- [Machine Learning and Misinformation.](http://paulsoulos.com/editorial/2017/03/07/machine-learning-and-misinformation.html) A blog post by Paul Soulos about the destabilizing effects that disruptive technologies have when taken in a fragile social and economic climate that is slow to adapt. #GAN #psychology #beliefechos #confirmationbias
+
+2016-11-06
+---
+- [Deep Learning: The Unreasonable Effectiveness of Randomness.](https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87) A blog post by [Carlos E. Perez](https://medium.com/@IntuitMachine) about meta-learning (including a machine that learns variants of the LSTM node), thoughts on models memorizing the training data, and networks with random weights. #metalearning #randomness
 
 2016-10-13
 ---
