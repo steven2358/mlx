@@ -11,6 +11,7 @@ A list of machine learning resources.
 - [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
 
 2017-03-07
+---
 - [Machine Learning and Misinformation.](http://paulsoulos.com/editorial/2017/03/07/machine-learning-and-misinformation.html) A blog post by Paul Soulos about the destabilizing effects that disruptive technologies have when taken in a fragile social and economic climate that is slow to adapt. #GAN #psychology #beliefechos #confirmationbias
 
 2016-11-06
