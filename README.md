@@ -8,7 +8,7 @@ A list of machine learning resources.
 
 2017-03-15
 ---
-- [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
+- [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim. [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
 
 2017-03-07
 ---
@@ -21,6 +21,10 @@ A list of machine learning resources.
 2016-10-13
 ---
 - [Uncertainty in Deep Learning.](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) A blog post by Yarin Gal about his PhD Thesis on Bayesian Deep Learning through dropout. #dropout #bayesian #dl
+
+2016-10-06
+---
+- [Convolutional Variational Autoencoder, trained on MNIST.](https://transcranial.github.io/keras-js/#/mnist-vae) Interactive demo of convolutional variational autoencoder. #interactive #visualizations #cnn #vae
 
 2016-10-03
 ---
@@ -183,6 +187,10 @@ A list of machine learning resources.
 2015-02-11
 ---
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.](http://arxiv.org/abs/1502.03167) A paper by Sergey Ioffe and Christian Szegedy. #papers #deeplearning
+
+2015-01-24
+---
+- [Visualizing DBSCAN Clustering.](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) Interactive demo of DBSCAN clustering algorithm. #clustering #dbscan #interactive #visualization
 
 2015-01-01
 ---
