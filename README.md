@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-04-19
+---
+- [The GAN Zoo.](https://github.com/hindupuravinash/the-gan-zoo) A list of all named GANs. [Accompanying blog post.](https://deephunt.in/the-gan-zoo-79597dc8c347) #GAN #zoo
+
 2017-03-20
 ---
 - [Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals #
