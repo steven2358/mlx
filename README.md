@@ -6,13 +6,16 @@ A list of machine learning resources.
 ---
 - [The GAN Zoo.](https://github.com/hindupuravinash/the-gan-zoo) A list of all named GANs. [Accompanying blog post.](https://deephunt.in/the-gan-zoo-79597dc8c347) #GAN #zoo
 
+2017-03-30
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) CycleGAN paper by J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros. [Official Torch implementation.](https://github.com/junyanz/CycleGAN) #GAN #paper
+
 2017-03-20
 ---
 - [Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals #
 
 2017-03-15
 ---
-- [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) A paper by T. K., M. Cha, H. Kim, J. Lee, and J. Kim. [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
+- [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.](https://arxiv.org/abs/1703.05192) DiscoGAN paper by T. Kim, M. Cha, H. Kim, J. Lee, and J. Kim. [Official Torch implementation.](https://github.com/SKTBrain/DiscoGAN) #GAN
 
 2017-03-07
 ---
