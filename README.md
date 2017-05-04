@@ -11,7 +11,7 @@ A list of machine learning resources.
 
 2017-03-20
 ---
-- [Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals #
+- [Distill.pub](http://distill.pub/) A web-based peer-reviewed journal dedicated to clear explanations of machine learning. #journals
 
 2017-03-15
 ---
