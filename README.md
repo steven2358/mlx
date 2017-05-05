@@ -178,6 +178,10 @@ A list of machine learning resources.
 ---
 - [The Unreasonable Effectiveness of Recurrent Neural Networks.](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Blog post by Andrej Karpathy. #rnn
 
+2015-05-18
+---
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation.](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) A paper by O. Ronneberger, P. Fischer, and T. Brox on U-Net image segmentation, including source code. #papers #matlab #caffe
+
 2015-04-06
 ---
 - [Early Stopping is Nonparametric Variational Inference.](http://arxiv.org/abs/1504.01344) A Bayesian interpretation of early-stopping stochastic gradient descent. #papers
