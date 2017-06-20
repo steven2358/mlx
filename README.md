@@ -2,11 +2,16 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-06-15
+---
+- [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html) Release of TensorFlow Object Detection API. #Google #tensorflow #detection 
+
 2017-04-19
 ---
 - [The GAN Zoo.](https://github.com/hindupuravinash/the-gan-zoo) A list of all named GANs. [Accompanying blog post.](https://deephunt.in/the-gan-zoo-79597dc8c347) #GAN #zoo
 
 2017-03-30
+---
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) CycleGAN paper by J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros. [Official Torch implementation.](https://github.com/junyanz/CycleGAN) #GAN #paper
 
 2017-03-20
@@ -109,7 +114,7 @@ A list of machine learning resources.
 
 2015-11-09
 ---
-- [TensorFlow, an open source software library for machine intelligence by Google.](http://tensorflow.org/) #opensource #google #deeplearning
+- [TensorFlow, an open source software library for machine intelligence by Google.](http://tensorflow.org/) #opensource #google #deeplearning #tensorflow
 
 2015-11-05
 ---
