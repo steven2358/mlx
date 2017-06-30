@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-06-07
+---
+- [Functional neuroimaging of high-risk 6-month-old infants predicts a diagnosis of autism at 24 months of age.](http://stm.sciencemag.org/content/9/393/eaag2882) A paper by Robert W. Emerson et al. that uses pattern recognition techniques (SVM) on fMRI data. #autism #fmri #matlab
+
 2017-06-15
 ---
 - [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html) Release of TensorFlow Object Detection API. #Google #tensorflow #detection 
@@ -25,6 +29,10 @@ A list of machine learning resources.
 2017-03-07
 ---
 - [Machine Learning and Misinformation.](http://paulsoulos.com/editorial/2017/03/07/machine-learning-and-misinformation.html) A blog post by Paul Soulos about the destabilizing effects that disruptive technologies have when taken in a fragile social and economic climate that is slow to adapt. #GAN #psychology #beliefechos #confirmationbias
+
+2017-02-02
+---
+- [Dermatologist-level classification of skin cancer with deep neural networks.](https://www.nature.com/nature/journal/v542/n7639/full/nature21056.html) A paper by Andre Esteva on using convolutional neural networks to classify skin lesions. #cnn #deeplearning #tensorflow
 
 2016-11-06
 ---
