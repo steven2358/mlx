@@ -2,9 +2,13 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-07-06
+---
+- [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.](https://arxiv.org/abs/1707.01836) A paper by Pranav Rajpurkar, Awni Y. Hannun et al. that uses a 34-layer convolutional neural network which maps a sequence of ECG samples to a sequence of rhythm classes. #biomedical #cnn #deeplearning
+
 2017-06-07
 ---
-- [Functional neuroimaging of high-risk 6-month-old infants predicts a diagnosis of autism at 24 months of age.](http://stm.sciencemag.org/content/9/393/eaag2882) A paper by Robert W. Emerson et al. that uses pattern recognition techniques (SVM) on fMRI data. #autism #fmri #matlab
+- [Functional neuroimaging of high-risk 6-month-old infants predicts a diagnosis of autism at 24 months of age.](http://stm.sciencemag.org/content/9/393/eaag2882) A paper by Robert W. Emerson et al. that uses pattern recognition techniques (SVM) on fMRI data. #autism #fmri #matlab #biomedical
 
 2017-06-15
 ---
@@ -32,7 +36,7 @@ A list of machine learning resources.
 
 2017-02-02
 ---
-- [Dermatologist-level classification of skin cancer with deep neural networks.](https://www.nature.com/nature/journal/v542/n7639/full/nature21056.html) A paper by Andre Esteva on using convolutional neural networks to classify skin lesions. #cnn #deeplearning #tensorflow
+- [Dermatologist-level classification of skin cancer with deep neural networks.](https://www.nature.com/nature/journal/v542/n7639/full/nature21056.html) A paper by Andre Esteva on using convolutional neural networks to classify skin lesions. #cnn #deeplearning #tensorflow #biomedical
 
 2016-11-06
 ---
