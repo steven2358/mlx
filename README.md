@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2017-07-13
+---
+- [Foolbox v0.8.0: A Python toolbox to benchmark the robustness of machine learning models.](https://arxiv.org/abs/1707.04131) A Python toolbox to create adversarial examples that fool neural networks. [Code repo.](https://github.com/bethgelab/foolbox) #adversarial #deeplearning #toolboxes #python
+
 2017-07-06
 ---
 - [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.](https://arxiv.org/abs/1707.01836) A paper by Pranav Rajpurkar, Awni Y. Hannun et al. that uses a 34-layer convolutional neural network which maps a sequence of ECG samples to a sequence of rhythm classes. #biomedical #cnn #deeplearning
