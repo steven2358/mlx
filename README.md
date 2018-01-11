@@ -22,6 +22,10 @@ A list of machine learning resources.
 ---
 - [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html) Release of TensorFlow Object Detection API. #Google #tensorflow #detection 
 
+2017-05-22
+---
+- [pix2code: Generating Code from a Graphical User Interface Screenshot.](https://arxiv.org/abs/1705.07962) A paper by Tony Beltramelli that converts a graphical user interface screenshot created by a designer into computer code. #gui #deeplearning #design
+
 2017-04-19
 ---
 - [The GAN Zoo.](https://github.com/hindupuravinash/the-gan-zoo) A list of all named GANs. [Accompanying blog post.](https://deephunt.in/the-gan-zoo-79597dc8c347) #GAN #zoo
