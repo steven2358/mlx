@@ -116,6 +116,10 @@ A list of machine learning resources.
 ---
 - [A Neural Network Playground.](http://playground.tensorflow.org/) Play with neural networks. Brought by the TensorFlow team. #visualizations #interactive #tensorflow
 
+2016-03-23
+---
+- [Convolution arithmetic.](https://github.com/vdumoulin/conv_arithmetic) A set of animations illustrating different convolutions, from the paper "A technical report on convolution arithmetic in the context of deep learning" by Vincent Dumoulin and Francesco Visin. #cnn #deeplearning
+
 2016-03-09
 ---
 - [XGBoost: A Scalable Tree Boosting System.](http://arxiv.org/abs/1603.02754) A paper by Tianqi Chen and Carlos Guestrin. #papers #boosting
