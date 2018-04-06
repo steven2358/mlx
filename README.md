@@ -207,6 +207,10 @@ A list of machine learning resources.
 - [Model-Based Machine Learning (Early Access): an online book.](http://www.mbmlbook.com/) #books
 - [Yann LeCun, Yoshua Bengio & Geoffrey Hinton - Deep Learning.](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) Article in nature (paywalled). #papers #deeplearning
 
+2015-05-25
+---
+- [Siamese Neural Networks for One-Shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) A paper by Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov. #papers #deeplearning
+
 2015-05-21
 ---
 - [The Unreasonable Effectiveness of Recurrent Neural Networks.](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Blog post by Andrej Karpathy. #rnn
