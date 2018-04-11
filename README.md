@@ -136,6 +136,10 @@ A list of machine learning resources.
 ---
 - [Human-level concept learning through probabilistic program induction.](http://m.sciencemag.org/content/350/6266/1332.full.pdf) A paper by Brenden M. Lake, Ruslan Salakhutdinov, and Joshua B. Tenenbaum. #papers #one-shot #bayes
 
+2015-12-10
+---
+- [Deep Residual Learning for Image Recognition.](https://arxiv.org/abs/1512.03385) A paper by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun introducing the ResNet architecture. #deeplearning
+
 2015-12-03
 ---
 - [A mathematical motivation for complex-valued convolutional networks.](http://arxiv.org/abs/1503.03438) A paper by Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, and Mark Tygert. #cnn #wavelets
