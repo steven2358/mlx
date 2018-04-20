@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2018-04-19
+---
+- [Artificial Intelligence — The Revolution Hasn’t Happened Yet.](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) An essay by Michael I. Jordan. #ai
+
 2017-10-26
 ---
 - [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs.](http://science.sciencemag.org/content/early/2017/10/25/science.aag2612) A paper by Vicarious introducing the recursive cortical network, a generative model with prior structure that facilitates model building, authored by D. George, W. Lehrach, K. Kansky, M. Lázaro-Gredilla, C. Laan, B. Marthi, X. Lou, Z. Meng, Y. Liu, H. Wang, A. Lavin and D. S. Pho. #captcha #vision
