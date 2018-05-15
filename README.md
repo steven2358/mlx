@@ -4,7 +4,11 @@ A list of machine learning resources.
 
 2018-04-19
 ---
-- [Artificial Intelligence — The Revolution Hasn’t Happened Yet.](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) An essay by Michael I. Jordan. #ai
+- [Artificial Intelligence — The Revolution Hasn’t Happened Yet.](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) An essay by Michael I. Jordan. #ai
+
+2017-12-15
+---
+- [Faceswap.](https://github.com/deepfakes/faceswap) Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. #deeplearning #video #fake
 
 2017-10-26
 ---
@@ -69,6 +73,7 @@ A list of machine learning resources.
 2016-10-03
 ---
 - [How to Use t-SNE Effectively.](http://distill.pub/2016/misread-tsne/) An interactive exploration of the t-SNE algorithm. #visualizations #interactive #tSNE
+- [cleverhans v2.0.0: an adversarial machine learning library.](https://arxiv.org/abs/1610.00768) Cleverhans is a software library that provides standardized reference implementations of adversarial example construction techniques and adversarial training. #adversarial #deeplearning #toolboxes #python
 
 2016-09-30
 ---
