@@ -4,7 +4,7 @@ A list of machine learning resources.
 
 2018-10-11
 ---
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v1) A paper by Google AI Language on a state-of-the-art language model for a wide variety of NLP tasks. Model weights available at https://github.com/google-research/bert.
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/abs/1810.04805v1) A paper by Google AI Language on a state-of-the-art language model for a wide variety of NLP tasks. Model weights available at https://github.com/google-research/bert. #nlp
 
 2018-04-19
 ---
