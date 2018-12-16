@@ -377,6 +377,10 @@ A list of machine learning resources.
 ---
 - [Towards End-to-End Speech Recognition with Recurrent Neural Networks.](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf) A paper by Alex Graves and Navdeep Jaitly. #rnn #lstm
 
+2014-06-10
+---
+- [Generative Adversarial Networks.](https://arxiv.org/abs/1406.2661) A paper by Ian J. Goodfellow et al. that proposes a framework for estimating generative models via an adversarial process. #gan
+
 2014-02-14
 ---
 - [ConvNetJS: Deep Learning in your browser.](http://cs.stanford.edu/people/karpathy/convnetjs/) Javascript machine learning #code #deeplearning
