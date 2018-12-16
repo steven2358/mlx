@@ -6,6 +6,10 @@ A list of machine learning resources.
 ---
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/abs/1810.04805v1) A paper by Google AI Language on a state-of-the-art language model for a wide variety of NLP tasks. Model weights available at https://github.com/google-research/bert. #nlp
 
+2018-06-18
+---
+- [Neural Ordinary Differential Equations.](https://arxiv.org/abs/1806.07366) A paper by [R. T. Q. Chen](https://github.com/rtqichen), [Y. Rubanova](https://github.com/YuliaRubanova), [J. Bettencourt](https://github.com/jessebett), and [D. Duvenaud](https://github.com/duvenaud) that defines neural networks as continuously evolving systems by parameterizing the derivative of their hidden states, using ODE solvers to find their final state. #dnn #ode
+
 2018-04-19
 ---
 - [Artificial Intelligence — The Revolution Hasn’t Happened Yet.](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) An essay by Michael I. Jordan. #ai
