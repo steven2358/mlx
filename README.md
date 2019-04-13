@@ -4,7 +4,11 @@ A list of machine learning resources.
 
 2019-03-13
 ---
-- [The Bitter Lesson.](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) An essay by Richard Sutton on general-purpose methods, the leveraging of computation, and the fallacy of domain-knowledge. #ai #reinforcementlearning
+- [The Bitter Lesson.](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) An essay by Richard Sutton on general-purpose methods, the leveraging of computation, and the fallacy of domain knowledge. #ai #reinforcementlearning
+
+2019-02-14
+---
+- [Language Models are Unsupervised Multitask Learners.](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) A paper by OpenAI's A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, and I. Sutskever introducing the GPT-2 model for word prediction. [Accompanying blog post.](https://openai.com/blog/better-language-models/) #nlp
 
 2018-10-11
 ---
