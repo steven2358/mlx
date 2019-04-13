@@ -30,6 +30,10 @@ A list of machine learning resources.
 ---
 - [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs.](http://science.sciencemag.org/content/early/2017/10/25/science.aag2612) A paper by Vicarious introducing the recursive cortical network, a generative model with prior structure that facilitates model building, authored by D. George, W. Lehrach, K. Kansky, M. Lázaro-Gredilla, C. Laan, B. Marthi, X. Lou, Z. Meng, Y. Liu, H. Wang, A. Lavin and D. S. Pho. #captcha #vision
 
+2017-07-20
+---
+- [ShortScience.org](https://www.shortscience.org/) Summaries of machine learning papers, provided by the community. [Acompanying paper.](https://arxiv.org/abs/1707.06684) #websites
+
 2017-07-13
 ---
 - [Foolbox v0.8.0: A Python toolbox to benchmark the robustness of machine learning models.](https://arxiv.org/abs/1707.04131) A Python toolbox to create adversarial examples that fool neural networks. [Code repo.](https://github.com/bethgelab/foolbox) #adversarial #deeplearning #toolboxes #python
