@@ -42,6 +42,10 @@ A list of machine learning resources.
 ---
 - [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.](https://arxiv.org/abs/1707.01836) A paper by Pranav Rajpurkar, Awni Y. Hannun et al. that uses a 34-layer convolutional neural network which maps a sequence of ECG samples to a sequence of rhythm classes. #biomedical #cnn #deeplearning
 
+2017-06-12
+---
+- [Attention Is All You Need.](https://arxiv.org/abs/1706.03762) A paper by Google Brain introducing Transformer networks for sequence transduction. #nlp
+
 2017-06-07
 ---
 - [Functional neuroimaging of high-risk 6-month-old infants predicts a diagnosis of autism at 24 months of age.](http://stm.sciencemag.org/content/9/393/eaag2882) A paper by Robert W. Emerson et al. that uses pattern recognition techniques (SVM) on fMRI data. #autism #fmri #matlab #biomedical
