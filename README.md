@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2019-05-2
+---
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.](https://arxiv.org/abs/1905.11946) A paper by Mingxing Tan and Quoc V. Le on a scaling method to achieve small and fast neural networks with high classification accuracy.
+
 2019-03-13
 ---
 - [The Bitter Lesson.](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) An essay by Richard Sutton on general-purpose methods, the leveraging of computation, and the fallacy of domain knowledge. #ai #reinforcementlearning
