@@ -2,9 +2,12 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
-2019-05-28
+2020-05-28
 ---
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) A paper by OpenAI on the training of GPT-3, an autoregressive language model with 175 billion parameters. #nlp
+
+2019-05-28
+---
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.](https://arxiv.org/abs/1905.11946) A paper by Mingxing Tan and Quoc V. Le on a scaling method to achieve small and fast neural networks with high classification accuracy.
 
 2019-03-13
