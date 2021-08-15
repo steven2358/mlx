@@ -4,7 +4,7 @@ A list of machine learning resources.
 
 2021-07-07
 ---
-- Evaluating Large Language Models Trained on Code.](https://arxiv.org/abs/2107.03374) A paper by OpenAI introducing Codex, a GPT language model that translates language into code. [Accompanying blog post.](https://openai.com/blog/openai-codex/) #nlp
+- [Evaluating Large Language Models Trained on Code.](https://arxiv.org/abs/2107.03374) A paper by OpenAI introducing Codex, a GPT language model that translates language into code. [Accompanying blog post.](https://openai.com/blog/openai-codex/) #nlp
  
 2020-05-28
 ---
