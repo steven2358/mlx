@@ -169,6 +169,10 @@ A list of machine learning resources.
 ---
 - [XGBoost: A Scalable Tree Boosting System.](http://arxiv.org/abs/1603.02754) A paper by Tianqi Chen and Carlos Guestrin. #papers #boosting
 
+2016-02-17
+---
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) A paper by researchers from Google introducing federated learning. #papers #federatedlearning
+
 2016-01-22
 ---
 - [An Interactive Node-Link Visualization of Convolutional Neural Networks.](http://scs.ryerson.ca/~aharley/vis/) A 3D interface by Adam W. Harley. #visualizations #interactive #cnn
