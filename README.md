@@ -2,6 +2,10 @@ Machine Learning Explorations
 ===
 A list of machine learning resources.
 
+2021-12-20
+---
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) A paper by Rombach et al. on diffusion models for image generation, later used as the model behind [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release). #synthesis
+
 2021-07-07
 ---
 - [Evaluating Large Language Models Trained on Code.](https://arxiv.org/abs/2107.03374) A paper by OpenAI introducing Codex, a GPT language model that translates language into code. [Accompanying blog post.](https://openai.com/blog/openai-codex/) #nlp
