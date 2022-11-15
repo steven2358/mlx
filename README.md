@@ -9,7 +9,11 @@ A list of machine learning resources.
 2021-07-07
 ---
 - [Evaluating Large Language Models Trained on Code.](https://arxiv.org/abs/2107.03374) A paper by OpenAI introducing Codex, a GPT language model that translates language into code. [Accompanying blog post.](https://openai.com/blog/openai-codex/) #nlp
- 
+
+2021-02-26
+---
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) A paper by OpenAI on CLIP (Contrastive Language-Image Pre-Training). [Accompanying blog post.](https://openai.com/blog/clip/) #nlp #vision
+
 2020-05-28
 ---
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) A paper by OpenAI on the training of GPT-3, an autoregressive language model with 175 billion parameters. #nlp
