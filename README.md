@@ -1,6 +1,7 @@
 Machine Learning Explorations
 ===
-A list of machine learning resources.
+
+A list of machine learning resources published between 2011 and 2021. More recent resources can be found in my repositories [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) and [AI in 2023](https://github.com/steven2358/AI_in_2023).
 
 2021-12-20
 ---
